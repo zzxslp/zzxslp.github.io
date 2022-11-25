@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,8 @@ redirect_from:
 
 Hi there! I am a CS PhD student at UC San Diego, fortunately advised by [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). My (current) research interests are in multi-modal learning, with applications to text generation, recommendation, and healthcare. 
 
-## Publications:
-
+Publications:
+======
 *ArXiv Preprints:*
 
 **CLIP also Understands Text: Prompting CLIP for Phrase Understanding**
@@ -60,8 +60,8 @@ Hi there! I am a CS PhD student at UC San Diego, fortunately advised by [Prof. J
 <br>• An Yan, Yali Wang, Zhifeng Li, Yu Qiao
 <br>• IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019
 
-## Work Experience
-
+Work Experience
+======
 **Research Intern at Meta, Menlo Park, CA.**
 <br>Hosts: [Cem Akkaya](https://www.linkedin.com/in/cem-akkaya-67b51322/), [Licheng Yu](https://www.linkedin.com/in/licheng-yu-8aa7a8a1/), [Charlie Zhu](https://www.linkedin.com/in/charlie-zhu/), [Yang Bai](https://www.linkedin.com/in/ybai6/).
 <br>Sep 2022 - Dec 2022.
@@ -75,8 +75,8 @@ Hi there! I am a CS PhD student at UC San Diego, fortunately advised by [Prof. J
 <br>Jun 2020 - Sep 2020.
 
 
-## Education
-
+Education
+======
 **University of California San Diego, La Jolla, CA.**
 <br>Ph.D. & M.S. in Computer Science
 <br>Sep 2018 - Present.
