@@ -36,7 +36,7 @@ Publications:
 <br>• **An Yan**, Chun-Nan Hsu, Amilcare Gentili, Julian McAuley
 <br>• Journal of Radiology: Artificial Intelligence, 2022.
 
-**Personalized Complementary Product Recomendation**
+**Personalized Complementary Product Recommendation**
 <br>• **An Yan**, Yan Gao, Chaosheng Dong, Jinmiao Fu, Tong Zhao, Yi Sun, Julian McAuley
 <br>• The ACM Web Conference (WWW), 2022
 
