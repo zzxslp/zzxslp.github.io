@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a CS PhD student at UC San Diego, fortunately advised by [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). My (current) research interests are in multi-modal learning, with applications to text generation, recommendation, and healthcare. 
+Hi there! I am a CS PhD student at UC San Diego, fortunately advised by [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). My (current) research interests are in multi-modal learning, with a focus on text generation and understanding large models. On the application side, some of my work spans personalization, recommendation and machine learning for healthcare. 
 
 Publications:
 ======
@@ -64,7 +64,7 @@ Work Experience
 ======
 **Research Intern at Meta, Menlo Park, CA.**
 <br>Hosts: [Cem Akkaya](https://www.linkedin.com/in/cem-akkaya-67b51322/), [Licheng Yu](https://www.linkedin.com/in/licheng-yu-8aa7a8a1/), [Charlie Zhu](https://www.linkedin.com/in/charlie-zhu/), [Yang Bai](https://www.linkedin.com/in/ybai6/).
-<br>Sep 2022 - Sep 2022.
+<br>Jun 2022 - Sep 2022.
 
 **Applied Scientist Intern at Amazon, Seattle, WA.**
 <br>Hosts: [Chaosheng Dong](https://www.linkedin.com/in/chaosheng-dong-09425aa9/), [Yan Gao](https://www.linkedin.com/in/yan-gao-16a477b/), [Jinmiao Fu](https://www.linkedin.com/in/jinmiao-fu-32429438/), [Tong Zhao](https://www.linkedin.com/in/tonytongzhao/).
