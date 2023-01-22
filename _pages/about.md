@@ -17,16 +17,18 @@ Publications:
 **CLIP also Understands Text: Prompting CLIP for Phrase Understanding**
 <br>• **An Yan**, Jiacheng Li, Wanrong Zhu, Yujie Lu, William Wang, Julian McAuley
 
-**Visualize Before You Write: Imagination-Guided Open-Ended Text Generation**
-<br>• Wanrong Zhu, **An Yan**, Yujie Lu, Wenda Xu, Xin Eric Wang, Miguel Eckstein, William Wang
-
 **Personalized Showcases: Generating Multi-Modal Explanations for Recommendations**
 <br>• **An Yan**, Zhankui He, Jiacheng Li, Tianyang Zhang, Julian Mcauley
 
+*Refereed Publications:*
+
+**Visualize Before You Write: Imagination-Guided Open-Ended Text Generation**
+<br>• Wanrong Zhu, **An Yan**, Yujie Lu, Wenda Xu, Xin Eric Wang, Miguel Eckstein, William Wang
+<br>• European Chapter of the Association for Computational Linguistics (EACL) 2023
+
 **ImaginE: An Imagination-Based Automatic Evaluation Metric for Natural Language Generation**
 <br> • Wanrong Zhu, Xin Wang, **An Yan**, Miguel Eckstein, William Wang
-
-*Refereed Publications:*
+<br>• European Chapter of the Association for Computational Linguistics (EACL) 2023
 
 **Disambiguating Medical Reports via Contrastive Knowledge Infusion**
 <br>• Zexue He, **An Yan**, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
