@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a CS PhD student at UC San Diego, fortunately advised by [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). My (current) research interests are in multi-modal learning, with a focus on text generation and understanding large models. On the application side, some of my work spans personalization, recommendation and machine learning for healthcare. 
+Hi there! I am a CS PhD student at UC San Diego, fortunately advised by [Prof. Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My (current) research interests are in multi-modal learning, with a focus on text generation and understanding large models. On the application side, some of my work spans personalization, recommendation and machine learning for healthcare. 
 
 Publications:
 ======
