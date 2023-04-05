@@ -17,50 +17,51 @@ Publications:
 **CLIP also Understands Text: Prompting CLIP for Phrase Understanding**
 <br>• **An Yan**, Jiacheng Li, Wanrong Zhu, Yujie Lu, William Wang, Julian McAuley
 
+*Refereed Publications:*
+
 **Personalized Showcases: Generating Multi-Modal Explanations for Recommendations**
 <br>• **An Yan**, Zhankui He, Jiacheng Li, Tianyang Zhang, Julian Mcauley
-
-*Refereed Publications:*
+<br>• The International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)**
 
 **Visualize Before You Write: Imagination-Guided Open-Ended Text Generation**
 <br>• Wanrong Zhu, **An Yan**, Yujie Lu, Wenda Xu, Xin Eric Wang, Miguel Eckstein, William Wang
-<br>• European Chapter of the Association for Computational Linguistics (EACL) 2023
+<br>• European Chapter of the Association for Computational Linguistics **(EACL 2023)**
 
 **ImaginE: An Imagination-Based Automatic Evaluation Metric for Natural Language Generation**
 <br> • Wanrong Zhu, Xin Wang, **An Yan**, Miguel Eckstein, William Wang
-<br>• European Chapter of the Association for Computational Linguistics (EACL) 2023
+<br>• European Chapter of the Association for Computational Linguistics **(EACL 2023)**
 
 **Disambiguating Medical Reports via Contrastive Knowledge Infusion**
 <br>• Zexue He, **An Yan**, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
-<br>• AAAI Conference on Artificial Intelligence (AAAI) 2023.
+<br>• AAAI Conference on Artificial Intelligence **(AAAI 2023)**.
 
 **RadBERT: Adapting Language Models to Radiology**
 <br>• **An Yan**, Chun-Nan Hsu, Amilcare Gentili, Julian McAuley
-<br>• Journal of Radiology: Artificial Intelligence, 2022.
+<br>• Journal of Radiology: Artificial Intelligence, **(RSNA Journals 2022)**.
 
 **Personalized Complementary Product Recommendation**
 <br>• **An Yan**, Yan Gao, Chaosheng Dong, Jinmiao Fu, Tong Zhao, Yi Sun, Julian McAuley
-<br>• The ACM Web Conference (WWW), 2022
+<br>• The ACM Web Conference **(WWW 2022)**
 
 **Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation**
 <br>• **An Yan**, Zexue He, Xing Lu, Jiang Du, Eric Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
-<br>• Empirical Methods in Natural Language Processing (EMNLP), Findings, 2021
+<br>• Empirical Methods in Natural Language Processing **(EMNLP 2021)**
 
 **Describing Visual Differences Needs Semantic Understanding of Individuals**
 <br>• **An Yan**, Xin Wang, Tsu-Jui Fu, William Wang
-<br>• European Chapter of the Association for Computational Linguistics (EACL) 2021
+<br>• European Chapter of the Association for Computational Linguistics **(EACL 2021)**
 
 **Multimodal Style Transfer Learning for Outdoor Vision-and-Language Navigation**
 <br>• Wanrong Zhu, Xin Wang, Tsu-Jui Fu, **An Yan**, Pradyumna Narayana, Kazoo Sone, Sugato Basu, William Wang
-<br>• European Chapter of the Association for Computational Linguistics (EACL) 2021
+<br>• European Chapter of the Association for Computational Linguistics **(EACL 2021)**
 
 **2D Convolutional Neural Networks for Sequential Recommendation**
 <br>• **An Yan**, Shuo Cheng, Wang-Cheng Kang, Mengting Wan, Julian McAuley
-<br>• ACM International Conference on Information and Knowledge Management (CIKM) 2019
+<br>• ACM International Conference on Information and Knowledge Management **(CIKM 2019)**
 
 **PA3D: Pose-Action 3D Machine for Video Recognition**
 <br>• **An Yan**, Yali Wang, Zhifeng Li, Yu Qiao
-<br>• IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019
+<br>• IEEE Conference on Computer Vision and Pattern Recognition **(CVPR 2019)**
 
 Work Experience
 ======
