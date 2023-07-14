@@ -19,8 +19,12 @@ Publications:
 
 *Refereed Publications:*
 
+**Learning Concise and Descriptive Attributes for Visual Recognition**
+<br>• **An Yan**, Yu Wang, Yiwu Zhong, Chengyu Dong, Zexue He, Yujie Lu, William Wang, Jingbo Shang, Julian McAuley
+<br>• International Conference on Computer Vision 2023 **(ICCV 2023)**
+
 **Personalized Showcases: Generating Multi-Modal Explanations for Recommendations**
-<br>• **An Yan**, Zhankui He, Jiacheng Li, Tianyang Zhang, Julian Mcauley
+<br>• **An Yan**, Zhankui He, Jiacheng Li, Tianyang Zhang, Julian McAuley
 <br>• The International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)**
 
 **Visualize Before You Write: Imagination-Guided Open-Ended Text Generation**
