@@ -69,6 +69,14 @@ Publications:
 
 Work Experience
 ======
+**Research Intern at Microsoft, Redmond, WA.**
+<br>Hosts: [Zhengyuan Yang](https://www.linkedin.com/in/zhengyuan-yang-992b52105/), [Kevin Lin](https://sites.google.com/site/kevinlin311tw/me?pli=1), [Linjie Li](https://www.linkedin.com/in/linjie-li/), [Zicheng Liu](https://www.linkedin.com/in/zicheng-liu/), [Lijuan Wang](https://www.linkedin.com/in/lijuan-wang-56141438/).
+<br>Sep 2022 - Present.
+
+**Research Intern at Adobe, San Jose, CA.**
+<br>Hosts: [Raghav Addanki](https://www.linkedin.com/in/raghavendra-addanki-3a0b1b77/), [David Arbour](https://darbour.github.io), [Zhao Song](https://scholar.google.com/citations?user=yDZct7UAAAAJ&hl=en), [Tong Yu](https://scholar.google.com/citations?user=6-ARmXsAAAAJ&hl=zh-CN).
+<br>Jun 2023 - Sep 2023.
+
 **Research Intern at Meta, Menlo Park, CA.**
 <br>Hosts: [Cem Akkaya](https://www.linkedin.com/in/cem-akkaya-67b51322/), [Licheng Yu](https://www.linkedin.com/in/licheng-yu-8aa7a8a1/), [Charlie Zhu](https://www.linkedin.com/in/charlie-zhu/), [Yang Bai](https://www.linkedin.com/in/ybai6/).
 <br>Jun 2022 - Sep 2022.
