@@ -19,6 +19,10 @@ Publications:
 
 *Refereed Publications:*
 
+**M4: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation**
+<br>• Zexue He, Yu Wang, **An Yan**, Yao Liu, Eric Y Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
+<br>• Empirical Methods in Natural Language Processing **(EMNLP 2023)**
+
 **Learning Concise and Descriptive Attributes for Visual Recognition**
 <br>• **An Yan**, Yu Wang, Yiwu Zhong, Chengyu Dong, Zexue He, Yujie Lu, William Wang, Jingbo Shang, Julian McAuley
 <br>• International Conference on Computer Vision 2023 **(ICCV 2023)**
