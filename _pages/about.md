@@ -43,13 +43,21 @@ Publications:
 <br>• Zexue He, **An Yan**, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
 <br>• AAAI Conference on Artificial Intelligence **(AAAI 2023)**.
 
+**Robust multi-view fracture detection in the presence of other abnormalities using HAMIL-Net**
+<br>• Xing Lu, Eric Chang, Jiang Du, **An Yan**, Julian McAuley, Amilcare Gentili, Chunnan Hsu
+<br>• Military Medicine, 2023.
+
 **RadBERT: Adapting Language Models to Radiology**
 <br>• **An Yan**, Chun-Nan Hsu, Amilcare Gentili, Julian McAuley
-<br>• Journal of Radiology: Artificial Intelligence, **(RSNA Journals 2022)**.
+<br>• Journal of Radiology, 2022.
 
 **Personalized Complementary Product Recommendation**
 <br>• **An Yan**, Yan Gao, Chaosheng Dong, Jinmiao Fu, Tong Zhao, Yi Sun, Julian McAuley
 <br>• The ACM Web Conference **(WWW 2022)**
+
+**Semi-supervised Multi-Label Classification with 3D CBAM Resnet for Tuberculosis Cavern Report**
+<br>• Xing Lu, **An Yan**, Eric Y Chang, Chun-nan Hsu, Julian McAuley, Jiang Du, Amilcare Gentili 
+<br>• Conference and Labs of the Evaluation Forum **(CLEF-2022)**
 
 **Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation**
 <br>• **An Yan**, Zexue He, Xing Lu, Jiang Du, Eric Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
@@ -74,23 +82,28 @@ Publications:
 Work Experience
 ======
 **Research Intern at Microsoft, Redmond, WA.**
-<br>Hosts: [Zhengyuan Yang](https://www.linkedin.com/in/zhengyuan-yang-992b52105/), [Kevin Lin](https://sites.google.com/site/kevinlin311tw/me?pli=1), [Linjie Li](https://www.linkedin.com/in/linjie-li/), [Zicheng Liu](https://www.linkedin.com/in/zicheng-liu/), [Lijuan Wang](https://www.linkedin.com/in/lijuan-wang-56141438/).
+<br>Hosts: [Zhengyuan Yang](https://www.linkedin.com/in/zhengyuan-yang-992b52105/), [Jianfeng Wang](https://www.linkedin.com/in/jianfengwang1/), [Kevin Lin](https://sites.google.com/site/kevinlin311tw/me?pli=1), [Linjie Li](https://www.linkedin.com/in/linjie-li/), [Zicheng Liu](https://www.linkedin.com/in/zicheng-liu/), [Lijuan Wang](https://www.linkedin.com/in/lijuan-wang-56141438/).
+<br>Working on new applications with GPT-4V.
 <br>Sep 2023 - Present.
 
 **Research Intern at Adobe, San Jose, CA.**
 <br>Hosts: [Raghav Addanki](https://www.linkedin.com/in/raghavendra-addanki-3a0b1b77/), [David Arbour](https://darbour.github.io), [Zhao Song](https://scholar.google.com/citations?user=yDZct7UAAAAJ&hl=en), [Tong Yu](https://scholar.google.com/citations?user=6-ARmXsAAAAJ&hl=zh-CN).
+<br>Gradient-based constrained sampling from LMs.
 <br>Jun 2023 - Sep 2023.
 
 **Research Intern at Meta, Menlo Park, CA.**
 <br>Hosts: [Cem Akkaya](https://www.linkedin.com/in/cem-akkaya-67b51322/), [Licheng Yu](https://www.linkedin.com/in/licheng-yu-8aa7a8a1/), [Charlie Zhu](https://www.linkedin.com/in/charlie-zhu/), [Yang Bai](https://www.linkedin.com/in/ybai6/).
+<br>Multi-modal pre-training for ads understanding and generation.
 <br>Jun 2022 - Sep 2022.
 
 **Applied Scientist Intern at Amazon, Seattle, WA.**
 <br>Hosts: [Chaosheng Dong](https://www.linkedin.com/in/chaosheng-dong-09425aa9/), [Yan Gao](https://www.linkedin.com/in/yan-gao-16a477b/), [Jinmiao Fu](https://www.linkedin.com/in/jinmiao-fu-32429438/), [Tong Zhao](https://www.linkedin.com/in/tonytongzhao/).
+<br>Personalized complementary recommendation. [Top 10 most viewed publications of 2022 at Amazon Science.](https://www.amazon.science/latest-news/the-most-viewed-amazon-science-publications-of-2022)
 <br>Jun 2021 - Sep 2021.
 
 **Applied Scientist Intern at Amazon, Santa Barbara, CA.**
 <br>Hosts: [Craig Bennett](https://www.linkedin.com/in/prefrontal/), [Nic Jedema](https://www.linkedin.com/in/nic-jedema-1ba0bbb1/).
+<br>Alexa QA quality evaluation.
 <br>Jun 2020 - Sep 2020.
 
 
