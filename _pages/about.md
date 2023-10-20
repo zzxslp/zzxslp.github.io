@@ -82,7 +82,7 @@ Publications:
 Work Experience
 ======
 **Research Intern at Microsoft, Redmond, WA.**
-<br>Hosts: [Zhengyuan Yang](https://www.linkedin.com/in/zhengyuan-yang-992b52105/), [Jianfeng Wang](https://www.linkedin.com/in/jianfengwang1/), [Kevin Lin](https://sites.google.com/site/kevinlin311tw/me?pli=1), [Linjie Li](https://www.linkedin.com/in/linjie-li/), [Zicheng Liu](https://www.linkedin.com/in/zicheng-liu/), [Lijuan Wang](https://www.linkedin.com/in/lijuan-wang-56141438/).
+<br>Hosts: [Zhengyuan Yang](https://www.linkedin.com/in/zhengyuan-yang-992b52105/), [Jianfeng Wang](https://www.linkedin.com/in/jianfengwang1/), [Linjie Li](https://www.linkedin.com/in/linjie-li/), [Kevin Lin](https://sites.google.com/site/kevinlin311tw/me?pli=1),  [Zicheng Liu](https://www.linkedin.com/in/zicheng-liu/), [Lijuan Wang](https://www.linkedin.com/in/lijuan-wang-56141438/).
 <br>Working on new applications with GPT-4V.
 <br>Sep 2023 - Present.
 
