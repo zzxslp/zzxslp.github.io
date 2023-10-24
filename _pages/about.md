@@ -14,10 +14,20 @@ Publications:
 ======
 *ArXiv Preprints:*
 
+<!-- **Mitigating Spurious Correlations for Medical Image Classification via Natural Language Concepts**
+<br>• **An Yan**, Yu Wang, Petros Karypis, Zexue He, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley
+ -->
+ 
 **CLIP also Understands Text: Prompting CLIP for Phrase Understanding**
 <br>• **An Yan**, Jiacheng Li, Wanrong Zhu, Yujie Lu, William Wang, Julian McAuley
 
+
 *Refereed Publications:*
+
+**Driving through the Concept Gridlock: Unraveling Explainability Bottlenecks in Automated Driving**
+<br>• Jessica Echterhoff, **An Yan**, Kyungtae Han, Amr Abdelraouf, Rohit Gupta, Julian McAuley
+<br>• Winter Conference on Applications of Computer Vision **(WACV 2024)**
+
 
 **M4: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation**
 <br>• Zexue He, Yu Wang, **An Yan**, Yao Liu, Eric Y Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
