@@ -28,6 +28,9 @@ Publications:
 <br>• Jessica Echterhoff, **An Yan**, Kyungtae Han, Amr Abdelraouf, Rohit Gupta, Julian McAuley
 <br>• Winter Conference on Applications of Computer Vision **(WACV 2024)**
 
+**Mitigating Spurious Correlations for Medical Image Classification via Natural Language Concepts**
+<br>• **An Yan**, Yu Wang, Petros Karypis, Zexue He, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley
+<br>• Conference on Neural Information Processing Systems **(NeurIPS 2023)** Medical Imaging Workshop
 
 **M4: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation**
 <br>• Zexue He, Yu Wang, **An Yan**, Yao Liu, Eric Y Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
@@ -59,7 +62,7 @@ Publications:
 
 **RadBERT: Adapting Language Models to Radiology**
 <br>• **An Yan**, Chun-Nan Hsu, Amilcare Gentili, Julian McAuley
-<br>• Journal of Radiology, 2022.
+<br>• Journal of Radiology: Artificial Intelligence, 2022.
 
 **Personalized Complementary Product Recommendation**
 <br>• **An Yan**, Yan Gao, Chaosheng Dong, Jinmiao Fu, Tong Zhao, Yi Sun, Julian McAuley
