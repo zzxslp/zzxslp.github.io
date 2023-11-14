@@ -17,10 +17,15 @@ Publications:
 <!-- **Mitigating Spurious Correlations for Medical Image Classification via Natural Language Concepts**
 <br>• **An Yan**, Yu Wang, Petros Karypis, Zexue He, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley
  -->
+
+**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
+<br>• **An Yan**, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwei Yang, Yiwu Zhong, Julian McAuley, Jianfeng Gao, Zicheng Liu, Lijuan Wang
+
+**GPT-4V as a Generalist Evaluator for Vision-Language Tasks**
+<br>• Xinlu Zhang, Yujie Lu, Weizhi Wang, **An Yan**, Jun Yan, Lianke Qin, Heng Wang, Xifeng Yan, William Yang Wang, Linda Ruth Petzold
  
 **CLIP also Understands Text: Prompting CLIP for Phrase Understanding**
 <br>• **An Yan**, Jiacheng Li, Wanrong Zhu, Yujie Lu, William Wang, Julian McAuley
-
 
 *Refereed Publications:*
 
