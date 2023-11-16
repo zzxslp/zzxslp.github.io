@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a CS PhD student at UC San Diego, fortunately advised by [Prof. Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding large vision-language models. On the application side, some of my work spans personalization, recommendation and machine learning for healthcare. 
+Hi there! I am a CS PhD student at UC San Diego, fortunately advised by [Prof. Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding multimodal LLMs. On the application side, my work spans conditioned text generation, autonomous agents, personalization & recommendation, and machine learning for healthcare. 
 
 Publications:
 ======
 *ArXiv Preprints:*
-
-<!-- **Mitigating Spurious Correlations for Medical Image Classification via Natural Language Concepts**
-<br>• **An Yan**, Yu Wang, Petros Karypis, Zexue He, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley
- -->
 
 **GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
 <br>• **An Yan**, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwei Yang, Yiwu Zhong, Julian McAuley, Jianfeng Gao, Zicheng Liu, Lijuan Wang
