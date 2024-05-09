@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a reseacher at Salesforce AI. I completed my PhD at UC San Diego, working with [Prof. Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding multimodal LLMs. 
+Hi there! I am a reseacher at Salesforce AI. 
+
+Previously, I completed my PhD at UC San Diego, working with [Prof. Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding multimodal LLMs. 
 
 Publications:
 ======
