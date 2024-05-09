@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a CS PhD student at UC San Diego, fortunately advised by [Prof. Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding multimodal LLMs. On the application side, my work spans conditioned text generation, autonomous agents, personalization & recommendation, and machine learning for healthcare. 
+Hi there! I am a reseacher at Salesforce AI. I completed my PhD at UC San Diego, working with [Prof. Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding multimodal LLMs. 
 
 Publications:
 ======
 *ArXiv Preprints:*
+
+**List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs**
+<br>• **An Yan**,  Zhengyuan Yang, Junda Wu, Wanrong Zhu, Jianwei Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Julian McAuley, Jianfeng Gao, Lijuan Wang
 
 **GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
 <br>• **An Yan**, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwei Yang, Yiwu Zhong, Julian McAuley, Jianfeng Gao, Zicheng Liu, Lijuan Wang
@@ -96,9 +99,9 @@ Publications:
 Work Experience
 ======
 **Research Intern at Microsoft, Redmond, WA.**
-<br>Hosts: [Zhengyuan Yang](https://www.linkedin.com/in/zhengyuan-yang-992b52105/), [Jianfeng Wang](https://www.linkedin.com/in/jianfengwang1/), [Linjie Li](https://www.linkedin.com/in/linjie-li/), [Kevin Lin](https://sites.google.com/site/kevinlin311tw/me?pli=1),  [Zicheng Liu](https://www.linkedin.com/in/zicheng-liu/), [Lijuan Wang](https://www.linkedin.com/in/lijuan-wang-56141438/).
-<br>Working on new applications with GPT-4V.
-<br>Sep 2023 - Present.
+<br>Hosts: [Zhengyuan Yang](https://www.linkedin.com/in/zhengyuan-yang-992b52105/), [Jianwei Yang](https://jwyang.github.io), [Jianfeng Wang](https://www.linkedin.com/in/jianfengwang1/), [Linjie Li](https://www.linkedin.com/in/linjie-li/), [Kevin Lin](https://sites.google.com/site/kevinlin311tw/me?pli=1),  [Zicheng Liu](https://www.linkedin.com/in/zicheng-liu/), [Lijuan Wang](https://www.linkedin.com/in/lijuan-wang-56141438/).
+<br>GPT-4V as Agents. Training Multimodal LLMs.
+<br>Sep 2023 - Mar 2024.
 
 **Research Intern at Adobe, San Jose, CA.**
 <br>Hosts: [Raghav Addanki](https://www.linkedin.com/in/raghavendra-addanki-3a0b1b77/), [David Arbour](https://darbour.github.io), [Zhao Song](https://scholar.google.com/citations?user=yDZct7UAAAAJ&hl=en), [Tong Yu](https://scholar.google.com/citations?user=6-ARmXsAAAAJ&hl=zh-CN).
@@ -117,7 +120,7 @@ Work Experience
 
 **Applied Scientist Intern at Amazon, Santa Barbara, CA.**
 <br>Hosts: [Craig Bennett](https://www.linkedin.com/in/prefrontal/), [Nic Jedema](https://www.linkedin.com/in/nic-jedema-1ba0bbb1/).
-<br>Alexa QA quality evaluation.
+<br>QA quality evaluation with BERT.
 <br>Jun 2020 - Sep 2020.
 
 
@@ -125,7 +128,7 @@ Education
 ======
 **University of California San Diego**
 <br>Ph.D. & M.S. in Computer Science
-<br>Sep 2018 - Present.
+<br>Sep 2018 - Mar 2024.
 
 **University of Science and Technology of China**
 <br>B.E. in Electronic Engineering & Information Science 
