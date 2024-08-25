@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a reseacher at Salesforce AI Research. 
+Hi there! I am a reseach scientist at Salesforce AI Research. 
 
 Previously, I completed my PhD at UC San Diego, working with [Prof. Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding multimodal LLMs. 
 
@@ -31,10 +31,6 @@ Recent Research:
 **Personalized Showcases: Generating Multi-Modal Explanations for Recommendations**
 <br>• **An Yan**, Zhankui He, Jiacheng Li, Tianyang Zhang, Julian McAuley
 <br>• The International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)**
-
-**Visualize Before You Write: Imagination-Guided Open-Ended Text Generation**
-<br>• Wanrong Zhu, **An Yan**, Yujie Lu, Wenda Xu, Xin Eric Wang, Miguel Eckstein, William Wang
-<br>• European Chapter of the Association for Computational Linguistics **(EACL 2023)**
 
 Work Experience
 ======
