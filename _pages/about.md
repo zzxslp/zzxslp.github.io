@@ -14,6 +14,12 @@ Previously, I completed my PhD at UC San Diego, working with [Prof. Julian McAul
 
 Recent Research:
 ======
+**ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models**
+<br>• Jieyu Zhang, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, **An Yan**, Zixian Ma, Juan Carlos Niebles, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu
+
+**Trust but Verify: Programmatic VLM Evaluation in the Wild**
+<br>• Viraj Prabhu, Senthil Purushwalkam, **An Yan**, Caiming Xiong, Ran Xu
+
 **xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**
 <br>• Le Xue, Manli Shu, Anas Awadalla, Jun Wang, **An Yan**, Senthil Purushwalkam, Honglu Zhou, Viraj Prabhu, many others, Juan Carlos Niebles, Caiming Xiong, Ran Xu
 
