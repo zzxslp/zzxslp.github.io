@@ -61,7 +61,7 @@ Selected Research:
 
 **A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law**
 <br>• Zhiyu Zoey Chen, Jing Ma, Xinlu Zhang, Nan Hao, **An Yan**, Armineh Nourbakhsh, Xianjun Yang, Julian McAuley, Linda Petzold, William Yang Wang
-<br>• Transactions on Machine Learning Research **TMLR 2024**
+<br>• Transactions on Machine Learning Research **(TMLR 2024)**
 
 **MedEval: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation**
 <br>• Zexue He, Yu Wang, **An Yan**, Yao Liu, Eric Y Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu 
@@ -78,7 +78,7 @@ Selected Research:
 
 **2D Convolutional Neural Networks for Sequential Recommendation**
 <br>• **An Yan**, Shuo Cheng, Wang-Cheng Kang, Mengting Wan, Julian McAuley
-<br>• ACM International Conference on Information and Knowledge Management **CIKM-2019**
+<br>• ACM International Conference on Information and Knowledge Management **(CIKM-2019)**
 
 ## Machine Learning for Healthcare
 
@@ -86,7 +86,7 @@ Selected Research:
 <br>• **An Yan**, Yu Wang, Petros Karypis, Zexue He, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley
 <br>• Conference on Neural Information Processing Systems, Medical Imaging workshop **(NeurIPS 2023)**
 
-**RadBERT: Adapting Language Models to Radiology}**
+**RadBERT: Adapting Language Models to Radiology**
 <br>• **An Yan**, Chun-Nan Hsu, Amilcare Gentili, Julian McAuley
 <br>• Journal of Radiology: Artificial Intelligence, 2022
 
