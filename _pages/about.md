@@ -76,6 +76,10 @@ Selected Research:
 <br>• **An Yan**, Zhankui He, Jiacheng Li, Tianyang Zhang, Julian McAuley
 <br>• The International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)**
 
+**Personalized Complementary Product Recommendation**
+<br>• **An Yan**, Yan Gao, Chaosheng Dong, Jinmiao Fu, Tong Zhao, Yi Sun, Julian McAuley
+<br>• The ACM Web Conference **(WWW-2022)**
+
 **2D Convolutional Neural Networks for Sequential Recommendation**
 <br>• **An Yan**, Shuo Cheng, Wang-Cheng Kang, Mengting Wan, Julian McAuley
 <br>• ACM International Conference on Information and Knowledge Management **(CIKM-2019)**
@@ -92,7 +96,7 @@ Selected Research:
 
 **Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation**
 <br>• **An Yan**, Zexue He, Xing Lu, Jiang Du, Eric Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
-<br>• Empirical Methods in Natural Language Processing, Findings **(EMNLP-21)**
+<br>• Empirical Methods in Natural Language Processing **(EMNLP-21)**
 
 
 Work Experience
