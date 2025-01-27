@@ -14,7 +14,7 @@ Previously, I completed my PhD at UC San Diego, working with [Prof. Julian McAul
 
 Selected Research:
 ======
-## **Multimodal LLMs & Data Recipe**: 
+## Multimodal LLMs & Data Recipe: 
 
 **xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**
 <br>• Le Xue, Manli Shu, Anas Awadalla, Jun Wang, **An Yan**, Senthil Purushwalkam, Honglu Zhou, Viraj Prabhu, many others, Juan Carlos Niebles, Caiming Xiong, Ran Xu
@@ -27,7 +27,7 @@ Selected Research:
 <br>• **An Yan**,  Zhengyuan Yang, Junda Wu, Wanrong Zhu, Jianwei Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Julian McAuley, Jianfeng Gao, Lijuan Wang
 <br>• Conference on Language Modeling **(COLM 2024)**
 
-## **Visual Understanding & Text Generation**
+## Visual Understanding & Text Generation
 
 **Learning Concise and Descriptive Attributes for Visual Recognition**
 <br>• **An Yan**, Yu Wang, Yiwu Zhong, Chengyu Dong, Zexue He, Yujie Lu, William Wang, Jingbo Shang, Julian McAuley
@@ -45,7 +45,7 @@ Selected Research:
 <br>• **An Yan**, Yali Wang, Zhifeng Li, Yu Qiao
 <br>• IEEE Conference on Computer Vision and Pattern Recognition **(CVPR 2019)**
 
-## **Multimodal Agents & Systems**: 
+## Multimodal Agents & Systems: 
 
 **GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
 <br>• **An Yan**, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwei Yang, Yiwu Zhong, Julian McAuley, Jianfeng Gao, Zicheng Liu, Lijuan Wang
@@ -54,7 +54,7 @@ Selected Research:
 <br>• Jessica Echterhoff, **An Yan**, Kyungtae Han, Amr Abdelraouf, Rohit Gupta, Julian McAuley
 <br>• Winter Conference on Applications of Computer Vision **(WACV-2024)**
 
-## **Evaluation & Analysis**: 
+## Evaluation & Analysis: 
 
 **Trust but Verify: Programmatic VLM Evaluation in the Wild**
 <br>• Viraj Prabhu, Senthil Purushwalkam, **An Yan**, Caiming Xiong, Ran Xu
@@ -67,7 +67,7 @@ Selected Research:
 <br>• Zhiyu Zoey Chen, Jing Ma, Xinlu Zhang, Nan Hao, **An Yan**, Armineh Nourbakhsh, Xianjun Yang, Julian McAuley, Linda Petzold, William Yang Wang
 <br>• Transactions on Machine Learning Research **TMLR 2024**
 
-## **Personalization & Recommendation**
+## Personalization & Recommendation:
 
 **Bridging Language and Items for Retrieval and Recommendation**
 <br>• Yupeng Hou, Jiacheng Li, Zhankui He, **An Yan**, Xiusi Chen, Julian McAuley 
@@ -80,7 +80,7 @@ Selected Research:
 <br>• **An Yan**, Shuo Cheng, Wang-Cheng Kang, Mengting Wan, Julian McAuley
 <br>• ACM International Conference on Information and Knowledge Management **CIKM-2019**
 
-## **Machine Learning for Healthcare**:
+## Machine Learning for Healthcare:
 
 **Mitigating Spurious Correlations for Medical Image Classification via Natural Language Concepts**
 <br>• **An Yan**, Yu Wang, Petros Karypis, Zexue He, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley
