@@ -35,7 +35,7 @@ Selected Research:
 
 **Visualize Before You Write: Imagination-Guided Open-Ended Text Generation**
 <br>• Wanrong Zhu, **An Yan**, Yujie Lu, Wenda Xu, Xin Eric Wang, Miguel Eckstein, William Yang Wang
-<br>• European Chapter of the Association for Computational Linguistics **(EACL-2023)**
+<br>• European Chapter of the Association for Computational Linguistics **(EACL 2023)**
 
 **PA3D: Pose-Action 3D Machine for Video Recognition**
 <br>• **An Yan**, Yali Wang, Zhifeng Li, Yu Qiao
@@ -48,7 +48,7 @@ Selected Research:
 
 **Driving through the Concept Gridlock: Unraveling Explainability Bottlenecks in Automated Driving**
 <br>• Jessica Echterhoff, **An Yan**, Kyungtae Han, Amr Abdelraouf, Rohit Gupta, Julian McAuley
-<br>• Winter Conference on Applications of Computer Vision **(WACV-2024)**
+<br>• Winter Conference on Applications of Computer Vision **(WACV 2024)**
 
 ## Evaluation & Analysis
 
@@ -61,7 +61,7 @@ Selected Research:
 
 **MedEval: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation**
 <br>• Zexue He, Yu Wang, **An Yan**, Yao Liu, Eric Y Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu 
-<br>• Empirical Methods in Natural Language Processing **(EMNLP-2023)**
+<br>• Empirical Methods in Natural Language Processing **(EMNLP 2023)**
 
 ## Personalization & Recommendation
 
@@ -74,11 +74,11 @@ Selected Research:
 
 **Personalized Complementary Product Recommendation**
 <br>• **An Yan**, Yan Gao, Chaosheng Dong, Jinmiao Fu, Tong Zhao, Yi Sun, Julian McAuley
-<br>• The ACM Web Conference **(WWW-2022)**
+<br>• The ACM Web Conference **(WWW 2022)**
 
 **2D Convolutional Neural Networks for Sequential Recommendation**
 <br>• **An Yan**, Shuo Cheng, Wang-Cheng Kang, Mengting Wan, Julian McAuley
-<br>• ACM International Conference on Information and Knowledge Management **(CIKM-2019)**
+<br>• ACM International Conference on Information and Knowledge Management **(CIKM 2019)**
 
 ## Machine Learning for Healthcare
 
@@ -92,7 +92,7 @@ Selected Research:
 
 **Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation**
 <br>• **An Yan**, Zexue He, Xing Lu, Jiang Du, Eric Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
-<br>• Empirical Methods in Natural Language Processing **(EMNLP-21)**
+<br>• Empirical Methods in Natural Language Processing **(EMNLP 2021)**
 
 
 Work Experience
