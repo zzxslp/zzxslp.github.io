@@ -82,7 +82,7 @@ Selected Research:
 
 ## Machine Learning for Healthcare
 
-**Mitigating Spurious Correlations for Medical Image Classification via Natural Language Concepts**
+**Robust and Interpretable Medical Image Classifiers via Concept Bottleneck Models**
 <br>• **An Yan**, Yu Wang, Petros Karypis, Zexue He, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley
 <br>• Conference on Neural Information Processing Systems, Medical Imaging workshop **(NeurIPS 2023)**
 
