@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! I am a reseach scientist at Salesforce AI Research. 
 
-Previously, I completed my PhD at UC San Diego, working with [Prof. Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding large-scale vision-language models. 
+Previously, I completed my PhD at UC San Diego, working with [Prof. Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding scalable vision-language models. 
 
 Selected Research:
 ======
