@@ -37,10 +37,6 @@ Selected Research:
 <br>• Wanrong Zhu, **An Yan**, Yujie Lu, Wenda Xu, Xin Eric Wang, Miguel Eckstein, William Yang Wang
 <br>• European Chapter of the Association for Computational Linguistics **(EACL-2023)**
 
-**Describing Visual Differences Needs Semantic Understanding of Individuals**
-<br>• **An Yan**, Xin Wang, Tsu-Jui Fu, William Wang
-<br>• European Chapter of the Association for Computational Linguistics **(EACL 2021)**
-
 **PA3D: Pose-Action 3D Machine for Video Recognition**
 <br>• **An Yan**, Yali Wang, Zhifeng Li, Yu Qiao
 <br>• IEEE Conference on Computer Vision and Pattern Recognition **(CVPR 2019)**
@@ -92,7 +88,7 @@ Selected Research:
 
 **RadBERT: Adapting Language Models to Radiology**
 <br>• **An Yan**, Chun-Nan Hsu, Amilcare Gentili, Julian McAuley
-<br>• Journal of Radiology: Artificial Intelligence, 2022
+<br>• Radiology: Artificial Intelligence, **(RSNA Journal 2022)**
 
 **Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation**
 <br>• **An Yan**, Zexue He, Xing Lu, Jiang Du, Eric Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
