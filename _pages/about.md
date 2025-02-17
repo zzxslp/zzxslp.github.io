@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a reseach scientist at Salesforce AI Research, directed by [Silvio Savarese](https://scholar.google.com/citations?user=ImpbxLsAAAAJ&hl=en)
+Hi there! I am a reseach scientist at Salesforce AI Research, directed by [Silvio Savarese](https://scholar.google.com/citations?user=ImpbxLsAAAAJ&hl=en).
 
 Previously, I completed my PhD at UC San Diego, working with [Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding scalable vision-language models. 
 
