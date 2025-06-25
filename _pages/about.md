@@ -16,7 +16,7 @@ Selected Research:
 ======
 ## Multimodal LLMs & Data Recipe
 
-**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**
+**BLIP-3: A Family of Open Large Multimodal Models**
 <br>• Le Xue, Manli Shu, Anas Awadalla, Jun Wang, **An Yan**, Senthil Purushwalkam, Honglu Zhou, Viraj Prabhu, many others, Juan Carlos Niebles, Caiming Xiong, Ran Xu
 
 
@@ -54,6 +54,7 @@ Selected Research:
 
 **Trust but Verify: Programmatic VLM Evaluation in the Wild**
 <br>• Viraj Prabhu, Senthil Purushwalkam, **An Yan**, Caiming Xiong, Ran Xu
+<br>• International Conference on Computer Vision 2025 **(ICCV 2025)**
 
 **A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law**
 <br>• Zhiyu Zoey Chen, Jing Ma, Xinlu Zhang, Nan Hao, **An Yan**, Armineh Nourbakhsh, Xianjun Yang, Julian McAuley, Linda Petzold, William Yang Wang
