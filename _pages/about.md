@@ -30,6 +30,9 @@ Selected Research:
 <br>• **An Yan**,  Zhengyuan Yang, Junda Wu, Wanrong Zhu, Jianwei Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Julian McAuley, Jianfeng Gao, Lijuan Wang
 <br>• Conference on Language Modeling **(COLM 2024)**
 
+**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
+<br>• **An Yan**, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwei Yang, Yiwu Zhong, Julian McAuley, Jianfeng Gao, Zicheng Liu, Lijuan Wang
+
 ## Visual Understanding & Interpretability 
 
 **Learning Concise and Descriptive Attributes for Visual Recognition**
