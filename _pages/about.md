@@ -14,85 +14,51 @@ Previously, I completed my PhD at UC San Diego, working with [Julian McAuley](ht
 
 Selected Research:
 ======
+## Visual Generation, Diffusion
+**Blip3o-next: Next frontier of native image generation**
+<br>• Jiuhai Chen et al, Unified model for image generation and editing.
+
+**An Empirical Study of Attention Mechanisms in Video Diffusion Models**
+<br>• An Yan et al, ICCV-2025 long-video workshop
+
 ## Multimodal LLMs
 
 **BLIP-3: A Family of Open Large Multimodal Models**
-<br>• Le Xue, Manli Shu, Anas Awadalla, Jun Wang, **An Yan**, Senthil Purushwalkam, Honglu Zhou, Viraj Prabhu, many others, Juan Carlos Niebles, Caiming Xiong, Ran Xu
-
-**ProVision: Programmatically Scaling Vision-centric Instruction Data for Multimodal Language Models**
-<br>• Jieyu Zhang, Le Xue, Linxin Song, Jun Wang, Weikai Huang, Manli Shu, **An Yan**, Zixian Ma, Juan Carlos Niebles, Caiming Xiong, Zeyuan Chen, Ranjay Krishna, Ran Xu
+<br>• Le Xue et al, open recipe of data and training for M-LLMs.
 
 **Trust but Verify: Programmatic VLM Evaluation in the Wild**
-<br>• Viraj Prabhu, Senthil Purushwalkam, **An Yan**, Caiming Xiong, Ran Xu
-<br>• International Conference on Computer Vision 2025 **(ICCV 2025)**
+<br>• Viraj Prabhu et al, ICCV 2025
 
 **List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs**
-<br>• **An Yan**,  Zhengyuan Yang, Junda Wu, Wanrong Zhu, Jianwei Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Julian McAuley, Jianfeng Gao, Lijuan Wang
-<br>• Conference on Language Modeling **(COLM 2024)**
+<br>• An Yan et al, COLM 2024
 
 **GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
-<br>• **An Yan**, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwei Yang, Yiwu Zhong, Julian McAuley, Jianfeng Gao, Zicheng Liu, Lijuan Wang
+<br>• An Yan et al, an early attempt of multimodal phone agents
 
-## Visual Understanding & Interpretability 
+## Vision and Language Models
 
 **Learning Concise and Descriptive Attributes for Visual Recognition**
-<br>• **An Yan**, Yu Wang, Yiwu Zhong, Chengyu Dong, Zexue He, Yujie Lu, William Wang, Jingbo Shang, Julian McAuley
-<br>• International Conference on Computer Vision 2023 **(ICCV 2023)**
-
-**Robust and Interpretable Medical Image Classifiers via Concept Bottleneck Models**
-<br>• **An Yan**, Yu Wang, Petros Karypis, Zexue He, Amilcare Gentili, Chun-Nan Hsu, Julian McAuley
-<br>• Conference on Neural Information Processing Systems, Medical Imaging workshop **(NeurIPS 2023)**
-
-**Driving through the Concept Gridlock: Unraveling Explainability Bottlenecks in Automated Driving**
-<br>• Jessica Echterhoff, **An Yan**, Kyungtae Han, Amr Abdelraouf, Rohit Gupta, Julian McAuley
-<br>• Winter Conference on Applications of Computer Vision **(WACV 2024)**
-
-**PA3D: Pose-Action 3D Machine for Video Recognition**
-<br>• **An Yan**, Yali Wang, Zhifeng Li, Yu Qiao
-<br>• IEEE Conference on Computer Vision and Pattern Recognition **(CVPR 2019)**
-
-
-## Language Models & Text Generation
-
-**A Survey on Large Language Models for Critical Societal Domains: Finance, Healthcare, and Law**
-<br>• Zhiyu Zoey Chen, Jing Ma, Xinlu Zhang, Nan Hao, **An Yan**, Armineh Nourbakhsh, Xianjun Yang, Julian McAuley, Linda Petzold, William Yang Wang
-<br>• Transactions on Machine Learning Research **(TMLR 2024)**
-
-**MedEval: A Multi-Level, Multi-Task, and Multi-Domain Medical Benchmark for Language Model Evaluation**
-<br>• Zexue He, Yu Wang, **An Yan**, Yao Liu, Eric Y Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu 
-<br>• Empirical Methods in Natural Language Processing **(EMNLP 2023)**
+<br>• An Yan et al, ICCV 2023
 
 **Visualize Before You Write: Imagination-Guided Open-Ended Text Generation**
-<br>• Wanrong Zhu, **An Yan**, Yujie Lu, Wenda Xu, Xin Eric Wang, Miguel Eckstein, William Yang Wang
-<br>• European Chapter of the Association for Computational Linguistics **(EACL 2023)**
+<br>• Wanrong Zhu et al, EACL 2023
 
 **RadBERT: Adapting Language Models to Radiology**
-<br>• **An Yan**, Chun-Nan Hsu, Amilcare Gentili, Julian McAuley
-<br>• Radiology: Artificial Intelligence, **(RSNA Journal 2022)**
+<br>• An Yan et al, Journal of Radiology 2022
 
 **Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation**
-<br>• **An Yan**, Zexue He, Xing Lu, Jiang Du, Eric Chang, Amilcare Gentili, Julian McAuley, Chun-Nan Hsu
-<br>• Empirical Methods in Natural Language Processing **(EMNLP 2021)**
-
+<br>• An Yan et al, EMNLP 2021
 
 ## Personalization & Recommendation
 
 **Bridging Language and Items for Retrieval and Recommendation**
-<br>• Yupeng Hou, Jiacheng Li, Zhankui He, **An Yan**, Xiusi Chen, Julian McAuley 
+<br>• Yupeng Hou et al, Amazon dataset
 
 **Personalized Showcases: Generating Multi-Modal Explanations for Recommendations**
-<br>• **An Yan**, Zhankui He, Jiacheng Li, Tianyang Zhang, Julian McAuley
-<br>• The International ACM SIGIR Conference on Research and Development in Information Retrieval **(SIGIR 2023)**
+<br>• An Yan et al, Google review dataset
 
 **Personalized Complementary Product Recommendation**
-<br>• **An Yan**, Yan Gao, Chaosheng Dong, Jinmiao Fu, Tong Zhao, Yi Sun, Julian McAuley
-<br>• The ACM Web Conference **(WWW 2022)**
-
-**2D Convolutional Neural Networks for Sequential Recommendation**
-<br>• **An Yan**, Shuo Cheng, Wang-Cheng Kang, Mengting Wan, Julian McAuley
-<br>• ACM International Conference on Information and Knowledge Management **(CIKM 2019)**
-
-
+<br>• An Yan et al, WWW 2022
 
 Work Experience
 ======
