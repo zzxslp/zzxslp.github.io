@@ -73,7 +73,7 @@ Work Experience
 <br>Jun 2023 - Sep 2023.
 
 **Research Intern at Meta, Menlo Park, CA.**
-<br>Hosts: [Cem Akkaya](https://www.linkedin.com/in/cem-akkaya-67b51322/), [Licheng Yu](https://www.linkedin.com/in/licheng-yu-8aa7a8a1/), [Jin Jian](https://www.linkedin.com/in/jian-j-b8a470289/).
+<br>Hosts: [Cem Akkaya](https://www.linkedin.com/in/cem-akkaya-67b51322/), [Licheng Yu](https://www.linkedin.com/in/licheng-yu-8aa7a8a1/), [Jian Jin](https://www.linkedin.com/in/jian-j-b8a470289/).
 <br>Multi-modal pre-training for ads understanding and generation.
 <br>Jun 2022 - Sep 2022.
 
