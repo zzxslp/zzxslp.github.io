@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! I am a reseach scientist at Salesforce AI Research, directed by [Silvio Savarese](https://www.linkedin.com/in/silvio-savarese-97b76114/) and [Caiming Xiong](https://www.linkedin.com/in/caiming-xiong-150a1417/).
 
-Previously, I completed my PhD at UC San Diego, working with [Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding scalable vision-language models, e.g., multimodal LLMs, video diffusion models.
+Previously, I completed my PhD at UC San Diego, working with [Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding scalable vision-language models, e.g., multimodal LLMs and diffusion models.
 
 Selected Research:
 ======
@@ -63,17 +63,17 @@ Selected Research:
 Work Experience
 ======
 **Research Intern at Microsoft, Redmond, WA.**
-<br>Hosts: [Zhengyuan Yang](https://www.linkedin.com/in/zhengyuan-yang-992b52105/), [Jianwei Yang](https://jwyang.github.io), [Jianfeng Wang](https://www.linkedin.com/in/jianfengwang1/), [Linjie Li](https://www.linkedin.com/in/linjie-li/), [Kevin Lin](https://sites.google.com/site/kevinlin311tw/me?pli=1),  [Zicheng Liu](https://www.linkedin.com/in/zicheng-liu/), [Lijuan Wang](https://www.linkedin.com/in/lijuan-wang-56141438/).
+<br>Hosts: [Zhengyuan Yang](https://www.linkedin.com/in/zhengyuan-yang-992b52105/), [Jianwei Yang](https://jwyang.github.io), [Jianfeng Wang](https://www.linkedin.com/in/jianfengwang1/), [Linjie Li](https://www.linkedin.com/in/linjie-li/),  [Zicheng Liu](https://www.linkedin.com/in/zicheng-liu/), [Lijuan Wang](https://www.linkedin.com/in/lijuan-wang-56141438/).
 <br>GPT-4V as Agents. Data recipe and training of Multimodal LLMs.
 <br>Sep 2023 - Mar 2024.
 
 **Research Intern at Adobe, San Jose, CA.**
-<br>Hosts: [Raghav Addanki](https://www.linkedin.com/in/raghavendra-addanki-3a0b1b77/), [David Arbour](https://darbour.github.io), [Zhao Song](https://scholar.google.com/citations?user=yDZct7UAAAAJ&hl=en), [Tong Yu](https://scholar.google.com/citations?user=6-ARmXsAAAAJ&hl=zh-CN).
+<br>Hosts: [Raghav Addanki](https://www.linkedin.com/in/raghavendra-addanki-3a0b1b77/), [Zhao Song](https://scholar.google.com/citations?user=yDZct7UAAAAJ&hl=en), [Tong Yu](https://scholar.google.com/citations?user=6-ARmXsAAAAJ&hl=zh-CN).
 <br>Gradient-based constrained sampling from LMs.
 <br>Jun 2023 - Sep 2023.
 
 **Research Intern at Meta, Menlo Park, CA.**
-<br>Hosts: [Cem Akkaya](https://www.linkedin.com/in/cem-akkaya-67b51322/), [Licheng Yu](https://www.linkedin.com/in/licheng-yu-8aa7a8a1/), [Charlie Zhu](https://www.linkedin.com/in/charlie-zhu/), [Yang Bai](https://www.linkedin.com/in/ybai6/).
+<br>Hosts: [Cem Akkaya](https://www.linkedin.com/in/cem-akkaya-67b51322/), [Licheng Yu](https://www.linkedin.com/in/licheng-yu-8aa7a8a1/), [Jin Jian](https://www.linkedin.com/in/jian-j-b8a470289/).
 <br>Multi-modal pre-training for ads understanding and generation.
 <br>Jun 2022 - Sep 2022.
 
