@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a reseach scientist at Salesforce AI Research, directed by [Silvio Savarese](https://www.linkedin.com/in/silvio-savarese-97b76114/) and [Caiming Xiong](https://www.linkedin.com/in/caiming-xiong-150a1417/).
+Hi there! I am a reseach scientist at Salesforce AI Research, directed by [Silvio Savarese](https://www.linkedin.com/in/silvio-savarese-97b76114/).
 
 Previously, I completed my PhD at UC San Diego, working with [Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding scalable vision-language models, e.g., multimodal LLMs and diffusion models.
 
@@ -17,6 +17,10 @@ Selected Research:
 ## Visual Generation, Diffusion
 **Blip3o-next: Next frontier of native image generation**
 <br>• Jiuhai Chen et al, Unified model for image generation and editing.
+
+**How Far Are Vision-Language Models from Constructing the Real World? A Benchmark for Physical Generative Reasoning**
+<br>• Luyu Yang et al.
+
 
 **An Empirical Study of Attention Mechanisms in Video Diffusion Models**
 <br>• An Yan et al, ICCV-2025 long-video workshop
@@ -52,10 +56,10 @@ Selected Research:
 ## Personalization & Recommendation
 
 **Bridging Language and Items for Retrieval and Recommendation**
-<br>• Yupeng Hou et al, Amazon dataset
+<br>• Yupeng Hou et al, ACL-2026, Amazon dataset
 
 **Personalized Showcases: Generating Multi-Modal Explanations for Recommendations**
-<br>• An Yan et al, Google review dataset
+<br>• An Yan et al, SIGIR-2023, Google review dataset
 
 **Personalized Complementary Product Recommendation**
 <br>• An Yan et al, WWW 2022
