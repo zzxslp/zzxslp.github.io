@@ -16,58 +16,58 @@ Selected Research:
 ======
 ## Visual Generation, Diffusion
 **Blip3o-next: Next frontier of native image generation**
-<br>• Jiuhai Chen et al, Unified model for image generation and editing.
+<br>• Jiuhai Chen et al. Unified model for image generation and editing.
 
 **How Far Are Vision-Language Models from Constructing the Real World? A Benchmark for Physical Generative Reasoning**
-<br>• Luyu Yang et al.
+<br>• Luyu Yang et al. Building houses with visual coding agents.
 
 
 **An Empirical Study of Attention Mechanisms in Video Diffusion Models**
-<br>• An Yan et al, ICCV-2025 long-video workshop
+<br>• An Yan et al. Full training pipeline of auto-regressive video models on TPU+JAX. ICCV-2025 workshop
 
 ## Agents
 
 **MTA-Agent: An Open Recipe for Multimodal Deep Search Agents**
-<br>• Xiangyu Peng et al, synthetic RL data pipeline to train MM search agents
+<br>• Xiangyu Peng et al. Synthetic RL data pipeline to train MM search agents
 
 **GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
-<br>• An Yan et al, an early attempt of multimodal phone agents
+<br>• An Yan et al. An early attempt of multimodal phone agents
 
 ## Multimodal LLMs
 
 **BLIP-3: A Family of Open Large Multimodal Models**
-<br>• Le Xue et al, open recipe of data and training for M-LLMs.
+<br>• Le Xue et al. Open recipe of data and training for M-LLMs.
 
 **Trust but Verify: Programmatic VLM Evaluation in the Wild**
-<br>• Viraj Prabhu et al, ICCV 2025
+<br>• Viraj Prabhu et al. Automating VLM benchmark creation. ICCV 2025
 
 **List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs**
-<br>• An Yan et al, COLM 2024
+<br>• An Yan et al. Synthetic data recipe for M-LLM post-training. COLM 2024
 
 ## Vision and Language Models
 
 **Learning Concise and Descriptive Attributes for Visual Recognition**
-<br>• An Yan et al, ICCV 2023
+<br>• An Yan et al. Pruning for concept bottleneck models. ICCV 2023
 
 **Visualize Before You Write: Imagination-Guided Open-Ended Text Generation**
-<br>• Wanrong Zhu et al, EACL 2023
+<br>• Wanrong Zhu et al. LLM + Diffusion for text generation. EACL 2023
 
 **RadBERT: Adapting Language Models to Radiology**
-<br>• An Yan et al, Journal of Radiology 2022
+<br>• An Yan et al, A family of widely-used medical LMs. Journal of Radiology 2022
 
 **Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation**
-<br>• An Yan et al, EMNLP 2021
+<br>• An Yan et al. Contrastive learning for text generation. EMNLP 2021
 
 ## Personalization & Recommendation
 
 **Bridging Language and Items for Retrieval and Recommendation**
-<br>• Yupeng Hou et al, ACL-2026, Amazon dataset
+<br>• Yupeng Hou et al. LLM semantic benchmarking \& Amazon dataset. ACL-2026
 
 **Personalized Showcases: Generating Multi-Modal Explanations for Recommendations**
-<br>• An Yan et al, SIGIR-2023, Google review dataset
+<br>• An Yan et al. Multimodal personalization \& Google review dataset. SIGIR-2023
 
 **Personalized Complementary Product Recommendation**
-<br>• An Yan et al, WWW 2022
+<br>• An Yan et al. WWW 2022
 
 Work Experience
 ======
