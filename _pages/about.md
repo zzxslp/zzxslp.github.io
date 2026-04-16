@@ -25,6 +25,14 @@ Selected Research:
 **An Empirical Study of Attention Mechanisms in Video Diffusion Models**
 <br>• An Yan et al, ICCV-2025 long-video workshop
 
+## Agents
+
+**MTA-Agent: An Open Recipe for Multimodal Deep Search Agents**
+<br>• Xiangyu Peng et al, synthetic RL data pipeline to train MM search agents
+
+**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
+<br>• An Yan et al, an early attempt of multimodal phone agents
+
 ## Multimodal LLMs
 
 **BLIP-3: A Family of Open Large Multimodal Models**
@@ -35,9 +43,6 @@ Selected Research:
 
 **List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs**
 <br>• An Yan et al, COLM 2024
-
-**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
-<br>• An Yan et al, an early attempt of multimodal phone agents
 
 ## Vision and Language Models
 
