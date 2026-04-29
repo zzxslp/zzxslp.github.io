@@ -27,12 +27,11 @@ Selected Research:
 <br>• Full training pipeline of auto-regressive video models on TPU+JAX. 
 <br>• ICCV-2025 workshop, An Yan et al.
 
-## Datasets \& Benchmarks
-
 **MTA-Agent: An Open Recipe for Multimodal Deep Search Agents**
 <br>• Synthetic RL data pipeline to train MM search agents
 <br>• Xiangyu Peng et al. 
 
+## Datasets & Benchmarks
 **How Far Are Vision-Language Models from Constructing the Real World? A Benchmark for Physical Generative Reasoning**
 <br>• Building real houses with visual coding agents.
 <br>• Luyu Yang et al. 
