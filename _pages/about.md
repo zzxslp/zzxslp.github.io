@@ -14,35 +14,32 @@ Previously, I completed my PhD at UC San Diego, working with [Julian McAuley](ht
 
 Selected Research:
 ======
-## Visual Generation, Diffusion
-**Blip3o-next: Next frontier of native image generation**
+## Models
+**Blip3o-Next: Next frontier of native image generation**
 <br>• Unified model for image generation and editing.
 <br>• Jiuhai Chen et al. 
 
-**How Far Are Vision-Language Models from Constructing the Real World? A Benchmark for Physical Generative Reasoning**
-<br>• Building real houses with visual coding agents.
-<br>• Luyu Yang et al. 
-
+**BLIP-3: A Family of Open Large Multimodal Models**
+<br>• Open recipe of data and training for M-LLMs.
+<br>• ICCV-2025, Le Xue et al
 
 **An Empirical Study of Attention Mechanisms in Video Diffusion Models**
 <br>• Full training pipeline of auto-regressive video models on TPU+JAX. 
 <br>• ICCV-2025 workshop, An Yan et al.
 
-## Agents
+## Datasets \& Benchmarks
 
 **MTA-Agent: An Open Recipe for Multimodal Deep Search Agents**
 <br>• Synthetic RL data pipeline to train MM search agents
 <br>• Xiangyu Peng et al. 
 
-**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
-<br>• An early attempt of multimodal phone agents
-<br>• An Yan et al. 
+**How Far Are Vision-Language Models from Constructing the Real World? A Benchmark for Physical Generative Reasoning**
+<br>• Building real houses with visual coding agents.
+<br>• Luyu Yang et al. 
 
-## Multimodal LLMs
-
-**BLIP-3: A Family of Open Large Multimodal Models**
-<br>• Open recipe of data and training for M-LLMs.
-<br>• ICCV-2025, Le Xue et al
+**Bridging Language and Items for Retrieval and Recommendation**
+<br>• LLM semantic benchmarking & Amazon dataset. 
+<br>• ACL-2026, Yupeng Hou et al. 
 
 **Trust but Verify: Programmatic VLM Evaluation in the Wild**
 <br>• Automating VLM benchmark creation.
@@ -52,36 +49,24 @@ Selected Research:
 <br>• Synthetic data recipe for M-LLM post-training.
 <br>• COLM 2024, An Yan et al. 
 
-## Vision and Language Models
+**Personalized Showcases: Generating Multi-Modal Explanations for Recommendations**
+<br>• Multimodal personalization & Google review dataset.
+<br>• SIGIR-2023, An Yan et al.  
+
+## Misc
+
+**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
+<br>• An early attempt of multimodal GUI agents.
+<br>• An Yan et al. 
 
 **Learning Concise and Descriptive Attributes for Visual Recognition**
-<br>• Pruning for concept bottleneck models. 
+<br>• Concept pruning for interpretable vision models. 
 <br>• ICCV 2023, An Yan et al. 
-
-**Visualize Before You Write: Imagination-Guided Open-Ended Text Generation**
-<br>• LLM + Diffusion for text generation. 
-<br>• EACL 2023, Wanrong Zhu et al. 
 
 **RadBERT: Adapting Language Models to Radiology**
 <br>• A family of widely-used medical LMs.
 <br>• Journal of Radiology 2022, An Yan et al.
 
-**Weakly Supervised Contrastive Learning for Chest X-Ray Report Generation**
-<br>• Contrastive learning for text generation. 
-<br>• EMNLP 2021, An Yan et al. 
-
-## Personalization & Recommendation
-
-**Bridging Language and Items for Retrieval and Recommendation**
-<br>• LLM semantic benchmarking \& Amazon dataset. 
-<br>• ACL-2026, Yupeng Hou et al. 
-
-**Personalized Showcases: Generating Multi-Modal Explanations for Recommendations**
-<br>• Multimodal personalization \& Google review dataset.
-<br>• SIGIR-2023, An Yan et al.  
-
-**Personalized Complementary Product Recommendation**
-<br>• WWW 2022, An Yan et al. 
 
 Work Experience
 ======
