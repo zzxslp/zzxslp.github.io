@@ -12,36 +12,36 @@ Hi there! I am a reseach scientist at Salesforce AI Research, directed by [Silvi
 
 Previously, I completed my PhD at UC San Diego, working with [Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding scalable models, e.g., multimodal LLMs, DiTs, and unified models.
 
-Selected Research:
+Selected Projects:
 ======
 ## Models
 **Blip3o-Next: Next frontier of native image generation**
-<br>• Unified model for image generation and editing.
+<br>• Unified model for image generation and editing, pre-training, post-training and RL.
 <br>• Jiuhai Chen et al. 
 
 **BLIP-3: A Family of Open Large Multimodal Models**
-<br>• Open recipe of data and training for M-LLMs.
+<br>• Open recipe of data, pre-training and post-training for M-LLMs.
 <br>• ICCV-2025, Le Xue et al
 
 **An Empirical Study of Attention Mechanisms in Video Diffusion Models**
 <br>• Full training pipeline of auto-regressive video models on TPU+JAX. 
 <br>• ICCV-2025 workshop, An Yan et al.
 
-## Data & Benchmarks
 **MTA-Agent: An Open Recipe for Multimodal Deep Search Agents**
-<br>• Synthetic RL data pipeline to train MM search agents
-<br>• COLM-2026, Xiangyu Peng et al. 
+<br>• RL data pipeline to train MM search agents, outperforming GPT-5 and Gemini-3-pro with QWen3-VL-32B.
+<br>• COLM-2026, Becky Peng et al. 
 
+## Data & Benchmarks
 **How Far Are Vision-Language Models from Constructing the Real World? A Benchmark for Physical Generative Reasoning**
-<br>• Building real houses with visual coding agents.
+<br>• Dreamhouse benchmark: building real houses with visual coding agents.
 <br>• ECCV-2026, Luyu Yang et al. 
 
 **Bridging Language and Items for Retrieval and Recommendation**
-<br>• LLM semantic benchmarking & Amazon dataset. 
+<br>• Amazon dataset for LLM semantic training & benchmarking. 
 <br>• ACL-2026, Yupeng Hou et al. 
 
 **Trust but Verify: Programmatic VLM Evaluation in the Wild**
-<br>• Automating VLM benchmark creation.
+<br>• Automating VLM evaluation and benchmark creation.
 <br>• ICCV 2025, Viraj Prabhu et al.  
 
 **List Items One by One: A New Data Source and Learning Paradigm for Multimodal LLMs**
@@ -49,14 +49,14 @@ Selected Research:
 <br>• COLM 2024, An Yan et al. 
 
 **Personalized Showcases: Generating Multi-Modal Explanations for Recommendations**
-<br>• Multimodal personalization & Google review dataset.
+<br>• Google review dataset for multimodal personalization.
 <br>• SIGIR-2023, An Yan et al.  
 
 ## Misc
 
 **GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**
 <br>• An early attempt of multimodal GUI agents.
-<br>• An Yan et al. 
+<br>• Tech report 2024, An Yan et al. 
 
 **Learning Concise and Descriptive Attributes for Visual Recognition**
 <br>• Concept pruning for interpretable vision models. 
