@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a reseach scientist at Salesforce AI Research, directed by [Silvio Savarese](https://www.linkedin.com/in/silvio-savarese-97b76114/).
-
-Previously, I completed my PhD at UC San Diego, working with [Julian McAuley](https://scholar.google.com/citations?user=icbo4M0AAAAJ&hl=en). My research interests are in vision & language, with a current focus on building and understanding scalable models, e.g., multimodal LLMs, DiTs, and unified models.
+Hi there! I am a reseacher working on LLMs and multimodal learning.
 
 Selected Projects:
 ======
