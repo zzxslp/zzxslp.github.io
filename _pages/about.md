@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a reseacher working on LLMs and multimodal learning.
+Hi there! I am a researcher working on LLMs and multimodal learning.
 
 Selected Projects:
 ======
